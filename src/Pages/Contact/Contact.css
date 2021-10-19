@@ -1,0 +1,10 @@
+.contact-banner{
+    height: 100vh;
+    background-image: url(../../images/contact-background\ \(1\).jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.contact-section{
+    box-shadow: 5px 5px 10px gray;
+}

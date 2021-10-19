@@ -1,0 +1,11 @@
+.client-card{
+    border: 1px solid dodgerblue;
+    transition: 0.5s;
+    border-radius: 5px;
+    line-height: 35px;
+}
+.client-card:hover{
+    background-color: dodgerblue;
+    color: white;
+    box-shadow: 2px 5px 10px gray;
+}
