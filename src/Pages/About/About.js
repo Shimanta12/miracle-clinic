@@ -10,23 +10,23 @@ const About = () => {
         <Container className="mt-5 text-center">
             <h1 className="text-primary pt-3">About Us</h1>
             <Row xs={2} md={4} className="mt-5">
-                <Col >
+                <Col className="p-3" >
                     <i className="fas fa-users fs-1 mb-3 text-primary"></i>
                     <h5 className="text-primary">7200+</h5>
                     <h5>Healthy and happy customer</h5>
                 </Col>
 
-                <Col>
+                <Col className="p-3">
                     <i className="fas fa-user-tie fs-1 mb-3 text-primary"></i>
                     <h5 className="text-primary">120+</h5>
                     <h5>Professional medical specialist</h5>
                 </Col>
-                <Col>
+                <Col className="p-3">
                     <i className="far fa-gem fs-1 mb-3 text-primary"></i>
                     <h5 className="text-primary">14+</h5>
                     <h5>Years of impeccable and successful work</h5>
                 </Col>
-                <Col>
+                <Col className="p-3">
                     <i className="fas fa-award fs-1 mb-3 text-primary"></i>
                     <h5 className="text-primary">450+</h5>
                     <h5>Diplomas and awards of our clinic</h5>

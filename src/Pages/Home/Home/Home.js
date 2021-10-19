@@ -2,7 +2,7 @@ import React from 'react';
 import Banner from '../Banner/Banner';
 import Services from '../Services/Services';
 import Speciality from '../Speciality/Speciality';
-import DoctorSay from './DoctorSay/DoctorSay';
+import DoctorSay from '../DoctorSay/DoctorSay';
 
 const Home = () => {
     return (
